@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭
-I am studying Cyber Security @ Leeds Beckett University
-This is my github account created specifically for my time at Leeds Beckett University, for my Computing Programming module where I will work heavily with Python.
-My favourite TV Show is Game of Thrones!
+## I am studying Cyber Security @ Leeds Beckett University
+## This is my github account created specifically for my time at Leeds Beckett University, for my Computing Programming module where I will work heavily with Python.
+## My favourite TV Show is Game of Thrones!
 
